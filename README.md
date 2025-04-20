@@ -14,7 +14,7 @@ Thanks for stopping by ✌️
 
 ---
 
-## 📚 Problem List
+## 📚 Problem List(10 solved)
 
 | # | Title | Difficulty | Folder |
 |--:|-------|------------|--------|

@@ -56,7 +56,7 @@ Thanks for stopping by ✌️
 
 ---
 
-## 📚 Problem List
+## 📚 Problem List(${folders.length} solved)
 
 ${tableRows.join("\n")}
 `;
