@@ -1,3 +1,5 @@
+const { runTestCases } = require("../test-runner");
+
 const isPalindrome = (x) => {
     const numberString = String(x);
     const splitString = numberString.split('');
@@ -25,10 +27,4 @@ const testCases = [
     { input: 12345654321, expected: true }
   ];
   
-  testCases.forEach((test, index) => {
-    const result = isPalindrome(test.input);
-    const pass = result === test.expected ? '✅' : '❌';
-    console.log(
-      `Case ${index + 1}: Input = ${test.input}, Output = ${result}, Expected = ${test.expected} ${pass}`
-    );
-  });
+runTestCases(isPalindrome, testCases, 'Palindrome Number');

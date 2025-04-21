@@ -14,7 +14,7 @@ Thanks for stopping by ✌️
 
 ---
 
-## 📚 Problem List(10 solved)
+## 📚 Problem List(11 solved)
 
 | # | Title | Difficulty | Folder |
 |--:|-------|------------|--------|
@@ -25,6 +25,7 @@ Thanks for stopping by ✌️
 | 383 | ransom note | Easy | [383-ransom-note](./383-ransom-note) |
 | 412 | fizz buzz | Easy | [412-fizz-buzz](./412-fizz-buzz) |
 | 577 | employee bonus | Easy | [577-employee-bonus](./577-employee-bonus) |
+| 781 | rabbits in forest | Medium | [781-rabbits-in-forest](./781-rabbits-in-forest) |
 | 1342 | number of steps to reduce a number to zero | Easy | [1342-number-of-steps-to-reduce-a-number-to-zero](./1342-number-of-steps-to-reduce-a-number-to-zero) |
 | 1480 | running sum of 1d array | Easy | [1480-running-sum-of-1d-array](./1480-running-sum-of-1d-array) |
 | 1672 | richest customer wealth | Easy | [1672-richest-customer-wealth](./1672-richest-customer-wealth) |
