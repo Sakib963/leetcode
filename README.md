@@ -19,7 +19,7 @@ Thanks for stopping by ✌️
 | # | Title | Difficulty | Folder |
 |--:|-------|------------|--------|
 | 9 | palindrome number | Easy | [9-palindrome-number](./9-palindrome-number) |
-| 20 | valid parentheses | — | [20-valid-parentheses](./20-valid-parentheses) |
+| 20 | valid parentheses | Easy | [20-valid-parentheses](./20-valid-parentheses) |
 | 66 | plus one | Easy | [66-plus-one](./66-plus-one) |
 | 175 | combine two tables | Easy | [175-combine-two-tables](./175-combine-two-tables) |
 | 176 | second highest salary | Medium | [176-second-highest-salary](./176-second-highest-salary) |
